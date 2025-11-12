@@ -251,6 +251,10 @@ st.markdown("<hr style='border:1px solid pink;'>", unsafe_allow_html=True)
 
 # ── Compatibility & Art Page ──────────────────────────────────────────────────
 if st.session_state.page == "Compatibility & Art":
+    # 🧹 Reset Love Coach Chat and Context when user re-enters Compatibility page
+    st.session_state.chat_history = []
+    st.session_state.ctx = None
+    
     st.subheader("📸 Upload or Capture Your Couple Photo")
     photo = st.file_uploader("Upload", type=["jpg", "jpeg", "png"])
     snap = st.camera_input("Or Take a Photo 💕")
