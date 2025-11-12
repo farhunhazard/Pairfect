@@ -2,3 +2,4 @@ streamlit==1.46.1
 transformers==4.57.0
 torch==2.8.0
 openai==2.3.0
+python-dotenv==1.1.1
