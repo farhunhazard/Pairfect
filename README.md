@@ -108,22 +108,21 @@ Each milestone brings Pairfect closer to being the world’s **first Emotionally
 
 ## 🚀 Installation & Setup
 
-```bash
-# Clone the repository
+### Clone the repository
 git clone https://github.com/yourusername/pairfect.git
 cd pairfect
 
-# Create a virtual environment
+### Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit app
+### Run the Streamlit app
 streamlit run app.py
 
-# Create a .env file with your OpenAI API key:
+### Create a .env file with your OpenAI API key:
 OPENAI_API_KEY=your_api_key_here
 
 ## 🧠 Tech Stack
