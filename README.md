@@ -125,6 +125,8 @@ streamlit run app.py
 ### Create a .env file with your OpenAI API key:
 OPENAI_API_KEY=your_api_key_here
 
+---
+
 ## 🧠 Tech Stack
 Frontend: Streamlit
 
@@ -136,15 +138,22 @@ Backend: Python 3.10+, OpenAI SDK
 
 Deployment: Streamlit Cloud / AWS Lambda Ready
 
+---
+
 ## 🤝 Contributing
 Contributions are always welcome!
 Fork the repo, submit pull requests, and help us make Pairfect even more emotionally intelligent.
 
+---
+
 ## 📬 Contact
 Developer: Mohamed Farhun M.
-Email: mohamedfarhunm@gmail.com
-GitHub: farhunhazard
-Devpost: mohamedfarhun
+Email: farhunhazard@gmail.com
+GitHub: [farhunhazard](https://github.com/farhunhazard)
+Devpost: [mohamedfarhun](https://devpost.com/mohamedfarhun-it20) , [https://devpost.com/farhunhazard?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+](https://devpost.com/farhunhazard)
+
+---
 
 ## ❤️ Closing Note
 “Pairfect isn’t just built for love — it’s built with love.
