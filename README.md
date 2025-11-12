@@ -153,8 +153,7 @@ Email: farhunhazard@gmail.com
 
 GitHub: [farhunhazard](https://github.com/farhunhazard)
 
-Devpost: [mohamedfarhun](https://devpost.com/mohamedfarhun-it20) , [https://devpost.com/farhunhazard?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
-](https://devpost.com/farhunhazard)
+Devpost: [mohamedfarhun](https://devpost.com/mohamedfarhun-it20) , [farhunhazard](https://devpost.com/farhunhazard)
 
 ---
 
