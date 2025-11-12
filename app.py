@@ -263,6 +263,13 @@ if st.session_state.page == "Compatibility & Art":
     h = hash(img.getvalue())
     if st.session_state.photo_hash != h:
         st.session_state.photo_hash = h
+
+        # 🧹 Reset all session data for a fresh analysis
+        st.session_state.chat_history = []   # Clear previous Love Coach chat
+        st.session_state.ctx = None          # Reset context
+        st.session_state.content = None      # Reset summary, art, poem, etc.
+        st.session_state.gender_label = None # Reset gender badge
+        
         with st.spinner("Analyzing your photo with Vision AI..."):
             result = analyze_couple_image(img.getvalue())
         st.session_state.vision_result = result
