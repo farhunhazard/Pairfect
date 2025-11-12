@@ -150,8 +150,3 @@ Devpost: mohamedfarhun
 ## ❤️ Closing Note
 “Pairfect isn’t just built for love — it’s built with love.
 A union of code, creativity, and connection — redefining how technology understands the human heart.”
-
-
-
-# Run the Streamlit app
-streamlit run app.py
